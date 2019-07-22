@@ -1,0 +1,1 @@
+"use strict";$(document).ready(function(){$(".gallery_image").slick({lazyLoad:"ondemand",slidesToShow:1,slidesToScroll:1})});
